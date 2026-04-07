@@ -3,4 +3,8 @@ segundo archivo
 Editando desde github en la nube
 
 
+<<<<<<< HEAD
 cambio realizado en local
+=======
+cambio realizado en gihub rama master
+>>>>>>> aba8994105f11e3d6934a163a1374b24dc16f7b5
